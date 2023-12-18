@@ -1,5 +1,3 @@
-@media print {
-    body {
-        font-family: 'qRoboto', sans-serif !important;
+ .header {
+        display: none;
     }
-}
